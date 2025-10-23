@@ -1,6 +1,0 @@
-# HTTrack Website Copier Cookie File
-# This file format is compatible with Netscape cookies
-www.tgv4plus.com	TRUE	/	FALSE	1999999999	cookie-consent	%7B%22allowStrictlyNecessaryCookies%22%3Atrue%2C%22allowFunctionalityCookies%22%3Atrue%2C%22allowPerformanceCookies%22%3Atrue%2C%22allowTargetingCookies%22%3Atrue%2C%22allowInternalPerformanceCookies%22%3Atrue%7D
-.www.tgv4plus.com	TRUE	/	FALSE	1999999999	__cf_bm	vmCotnxhesxK.dgwI.0CJEEX1dV6zOyde3ounjqulrM-1759827614-1.0.1.1-F4wSbz4JKvesNTGYr1_SBW_hPxeKeDLMdfcXxaniQMvqs8.Af7b9b3lAJAFLH0eeoVPyvLf8qjIcKEiD8ZI4N_lSMH.8ki.APx3g34OxejE
-www.tgv4plus.com	TRUE	/	FALSE	1999999999	SameSite	None
-
